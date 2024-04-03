@@ -12,8 +12,8 @@ public class Hotel {
 
         void tampilAll(){
             System.out.println("Nama = "+nama);
-            System.out.println("Kota ="+kota);
+            System.out.println("Kota = "+kota);
             System.out.println("Harga = "+harga);
-            System.out.println("Bintang berapa = "+bintang);
+            System.out.println("Bintang = "+bintang);
             }
 }
